@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is book two.
+=======
+hello 
+this is book two.
+>>>>>>> change 1 and 2
